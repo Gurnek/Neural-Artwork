@@ -13,3 +13,5 @@ For example cppn.py --config "256 128 64 32 16 8 4" will produce nice results.
 # Output format
 You can specify whether you want it to be video format or picture format with the -v and -p flags.
 For example cppn.py -v true
+
+![An example](test.png)
